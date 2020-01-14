@@ -12,17 +12,24 @@ class WaitIcon extends Component {
   componentDidMount() {
     const container = document.getElementById("wait-icon");
     container.setAttribute("style", `height: ${this.props.height}px;`);
-    console.log("Setting width ", this.props.height);
+
     this.state.animation = lottie.loadAnimation({
       container,
       renderer: "svg",
       loop: true,
-      autoplay: true,
+      autoplay: false,
       animationData
     });
   }
+
   render() {
-    return <div id="wait-icon" />;
+    return (
+      <div
+        id="wait-icon"
+        onMouseOver={() => this.state.animation.play()}
+        onMouseLeave={() => this.state.animation.stop()}
+      />
+    );
   }
 }
 
