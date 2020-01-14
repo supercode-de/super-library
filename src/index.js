@@ -1,5 +1,6 @@
-import SuperLogo from "./SuperLogo";
+import SuperLogo from "./SuperLogo/SuperLogo";
+import WaitIcon from "./WaitIcon/WaitIcon"
 
-export { SuperLogo };
+export { SuperLogo, WaitIcon };
 
-export default { SuperLogo };
+export default { SuperLogo, WaitIcon };

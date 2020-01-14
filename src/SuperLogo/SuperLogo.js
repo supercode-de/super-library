@@ -1,6 +1,6 @@
 import React from "react";
 
-import styles from "./styles.css";
+import styles from "../styles.css";
 
 export default function SuperLogo(props) {
   return (
@@ -10,8 +10,8 @@ export default function SuperLogo(props) {
         <path
           fill="none"
           stroke="#000"
-          stroke-linejoin="round"
-          stroke-width="3"
+          strokeLinejoin="round"
+          strokeWidth="3"
           d="M862.2 356.5l-.2 3.7-.1 3.7-.2 3.8-.1 3.9-.2 3.9-.2 4-.1 4-.1 4-.2
         4.2-.1 4.1-.2 4.3v4.3l-.2 4.3-.1 4.5-.2 4.5v4.6l-.2 4.7v4.8l-.2
         4.9v5l-.2 5v5.1l-.1 5.2-.1 5.3v5.4l-.1 5.5v5.6l-.1 5.8v5.8l-.1
@@ -31,7 +31,7 @@ export default function SuperLogo(props) {
         />
       </g>
       <g>
-        <g fill="none" stroke="#000" stroke-linejoin="round" stroke-width="3">
+        <g fill="none" stroke="#000" strokeLinejoin="round" strokeWidth="3">
           <path
             d="M892.3
           712.4v-15.2l.1-3.8V672.9l.1-4.3V646.3h0v-11.7l.1-2.7v-38.1h0V497.7h0v-18.9h0V404.2l-.1-4.3v-24.6l-.1-3.9V356.3"
@@ -157,7 +157,7 @@ export default function SuperLogo(props) {
         />
       </g>
       <g>
-        <g fill="none" stroke="#000" stroke-linejoin="round" stroke-width="3">
+        <g fill="none" stroke="#000" strokeLinejoin="round" strokeWidth="3">
           <path
             d="M978.1 712.6l.6-3.7.5-3.8.5-3.8.5-3.9.5-4 .5-4 .5-4 .5-4
           .4-4.2.5-4.2.4-4.3.4-3.9v-.4l.4-4.4.4-4.4v-.2l.4-4.4.4-4.6v-.1l.1-1.7.2-3
@@ -423,7 +423,7 @@ export default function SuperLogo(props) {
         />
       </g>
       <g>
-        <g fill="none" stroke="#000" stroke-linejoin="round" stroke-width="3">
+        <g fill="none" stroke="#000" strokeLinejoin="round" strokeWidth="3">
           <path
             d="M1110.7 711.9l1.4-3.7 1.3-3.8 1.3-3.8 1.2-3.9 1.3-3.9 1.2-4 1.2-4
           1.1-4 1.1-4.2 1.1-4.2 1.1-4.3 1-4.3 1-4.3 1-4.5.1-.5.9-4
@@ -718,7 +718,7 @@ export default function SuperLogo(props) {
         />
       </g>
       <g>
-        <g fill="none" stroke="#000" stroke-linejoin="round" stroke-width="3">
+        <g fill="none" stroke="#000" strokeLinejoin="round" strokeWidth="3">
           <path
             d="M1274.6 709.4l2.3-3.7 2.2-3.7 2.2-3.8 2.1-3.8 2.1-4 2-3.8 2-4 2-4
           2-4.1 1.8-4.2 1.8-4.2 1.8-4.2 1.7-4.3 1.6-4.4.5-1.3 1.1-3.2 1.5-4.5
@@ -1029,7 +1029,7 @@ export default function SuperLogo(props) {
         />
       </g>
       <g>
-        <g fill="none" stroke="#000" stroke-linejoin="round" stroke-width="3">
+        <g fill="none" stroke="#000" strokeLinejoin="round" strokeWidth="3">
           <path
             d="M1445.1 704.3l3.2-3.5 3-3.7 3-3.7 3-3.7 3-3.8 2.7-3.8 2.8-4 2.7-3.9
           2.6-4 2.6-4 2.5-4 2.4-4.2 2.4-4.2 2.2-4.2 2.2-4.4 2.1-4.4 1.7-3.8.3-.7
@@ -1337,7 +1337,7 @@ export default function SuperLogo(props) {
         />
       </g>
       <g>
-        <g fill="none" stroke="#000" stroke-linejoin="round" stroke-width="3">
+        <g fill="none" stroke="#000" strokeLinejoin="round" strokeWidth="3">
           <path
             d="M1593 696.8l3.8-3.5 3.6-3.5 3.6-3.6 3.5-3.6 3.4-3.6 3.4-3.7 3.3-3.7
           3.2-3.8 3-3.8 3.1-3.9 3-4 2.8-3.9 2.8-4 2.7-4 2.6-4.2 2.4-4.2 2.4-4.3
@@ -1664,7 +1664,7 @@ export default function SuperLogo(props) {
         />
       </g>
       <g>
-        <g fill="none" stroke="#000" stroke-linejoin="round" stroke-width="3">
+        <g fill="none" stroke="#000" strokeLinejoin="round" strokeWidth="3">
           <path
             d="M1693.9 687.4l4-3.4 3.8-3.3 3.8-3.4 3.6-3.4 3.7-3.5 3.5-3.5 3.4-3.5
           3.4-3.6 3.3-3.6 3.1-3.7 3.1-3.7 3-3.7 3-3.8 2.8-3.8 2.7-4 2.5-3.9
@@ -1997,7 +1997,7 @@ export default function SuperLogo(props) {
         />
       </g>
       <g>
-        <g fill="none" stroke="#000" stroke-linejoin="round" stroke-width="3">
+        <g fill="none" stroke="#000" strokeLinejoin="round" strokeWidth="3">
           <path
             d="M1740.2 397l-3.8-3.2-7.5 6.6-7.5 6.6-7.5 6.6-4.2 3.7-3.5 6.5 2.3
           2.4 2.2 2.4 2.2 2.3 2 2.4 2.1 2.3 2 2.3 2 2.3 1.9 2.3 1.8 2.2 1.8 2.3
@@ -2332,7 +2332,7 @@ export default function SuperLogo(props) {
         />
       </g>
       <g>
-        <g fill="none" stroke="#000" stroke-linejoin="round" stroke-width="3">
+        <g fill="none" stroke="#000" strokeLinejoin="round" strokeWidth="3">
           <path
             d="M1727.1 407l-3.3-3-9.9 1.8-9.8 1.8-9.9 1.7-9.8 1.8-7.4 6.7-7.4
           6.7-7.5 6.7-.3.3 2 2.3 2 2.2 2 2.2 1.8 2.2 1.9 2.2 1.8 2.2 1.7 2.1 1.7
@@ -2675,7 +2675,7 @@ export default function SuperLogo(props) {
         />
       </g>
       <g>
-        <g fill="none" stroke="#000" stroke-linejoin="round" stroke-width="3">
+        <g fill="none" stroke="#000" strokeLinejoin="round" strokeWidth="3">
           <path
             d="M1671.3 415.8l-2.9-2.8-10 1-9.9.9-10 .9-10 .9-9.9 1-10 .8-4.8.5-7.2
           7-7.1 7-5.1 5 1.7 2.1 1.7 2.1 1.7 2.1 1.6 2.1 1.6 2 1.6 2.1 1.5 2 1.4
@@ -3012,7 +3012,7 @@ export default function SuperLogo(props) {
         />
       </g>
       <g>
-        <g fill="none" stroke="#000" stroke-linejoin="round" stroke-width="3">
+        <g fill="none" stroke="#000" strokeLinejoin="round" strokeWidth="3">
           <path
             d="M1492.5 621.9l-1.5 2.3-2 2.8-2 2.9 6.6 7.4 6.7 7.5 2.6 3 10 .5 10
           .6 10 .5 10 .6 10 .5 10 .6 10 .6 10 .5 2.2.1 2.3-2.6 2.3-2.7 2.2-2.7
@@ -3344,7 +3344,7 @@ export default function SuperLogo(props) {
         />
       </g>
       <g>
-        <g fill="none" stroke="#000" stroke-linejoin="round" stroke-width="3">
+        <g fill="none" stroke="#000" strokeLinejoin="round" strokeWidth="3">
           <path
             d="M1385.2 617.9l-.2.3-1.5 2.7-1.5 2.7-1.7 2.8 6 8 6 8 .8 1 10 .4 10
           .4 10 .4 10 .4 10 .4 10 .3 10 .4 10 .4 9.9.4 4 .1 1.7-2.5 1.8-2.6
@@ -3673,7 +3673,7 @@ export default function SuperLogo(props) {
         />
       </g>
       <g>
-        <g fill="none" stroke="#000" stroke-linejoin="round" stroke-width="3">
+        <g fill="none" stroke="#000" strokeLinejoin="round" strokeWidth="3">
           <path
             d="M1277.2 615.1l-.4.9-1.1 2.6-1.3 2.7-1.2 2.7 5 8.6 4.7 7.9 10 .2 10
           .3 10 .3 10 .2 10 .3 10 .3 10 .2 10 .3 10 .3 10 .2h1.3l1.4-2.4 1.3-2.5
@@ -3988,7 +3988,7 @@ export default function SuperLogo(props) {
         />
       </g>
       <g>
-        <g fill="none" stroke="#000" stroke-linejoin="round" stroke-width="3">
+        <g fill="none" stroke="#000" strokeLinejoin="round" strokeWidth="3">
           <path
             d="M1173.7 618l-.6 1.8-.9 2.6 4 9.2 3.1 7 10 .2 10 .2 10 .1 10 .2 10
           .2 10 .2 10 .2 10 .1 10 .2 10 .2
@@ -4299,7 +4299,7 @@ export default function SuperLogo(props) {
         />
       </g>
       <g>
-        <g fill="none" stroke="#000" stroke-linejoin="round" stroke-width="3">
+        <g fill="none" stroke="#000" strokeLinejoin="round" strokeWidth="3">
           <path
             d="M1082.8 620.5l-.2 1.1 2.9 9.6 1.9 6.4h10l10 .2 10 .1 10 .1 10
           .2h10l10 .2 10 .1 10 .1 10 .1
@@ -4597,7 +4597,7 @@ export default function SuperLogo(props) {
         />
       </g>
       <g>
-        <g fill="none" stroke="#000" stroke-linejoin="round" stroke-width="3">
+        <g fill="none" stroke="#000" strokeLinejoin="round" strokeWidth="3">
           <path
             d="M1034.8 637.3h10l10 .1 10 .1h10l10 .1 10 .1h10l10
           .1h6l.3-2.3.3-2.4.3-2.3.3-2.4.3-2.5.2-2.4.3-2.4.3-2.5.2-2.5.3-2.5.2-2.5.2-2.5.3-2.5.2-2.6.2-2.6.2-2.7.2-2.7.2-2.7.1-2.7.2-2.8.2-2.8.1-2.9.1-2.8.2-3v-3l.2-3v-3l.2-3.1v-3.2l.1-3.2V554l.1-3.3V544l.1-3.5V523l-.1-3.3v-3.3l-.1-3.2-.1-3.2-.1-3-.1-3.1-.1-3-.1-3-.2-3-.1-2.8-.1-2.9-.2-2.8-.2-2.8-.1-2.7-.2-2.7-.2-2.7-.2-2.7-.2-2.6-.2-2.6-.3-2.5-.2-2.5-.2-2.6-.3-2.4-.2-2.5-.3-2.5-.3-2.4-.2-2.5-.3-2.4-.3-2.4-.3-2.4-.3-2.4-.3-2.3h-10l-10
@@ -4882,7 +4882,7 @@ export default function SuperLogo(props) {
         />
       </g>
       <g>
-        <g fill="none" stroke="#000" stroke-linejoin="round" stroke-width="3">
+        <g fill="none" stroke="#000" strokeLinejoin="round" strokeWidth="3">
           <path
             d="M1032.3
           637.3h30l1.4.1.2-2.4v-2.3l.2-2.4V628l.2-2.4v-2.4l.2-2.4v-2.5l.2-2.5v-2.4l.2-2.5v-2.5l.1-2.6.1-2.5v-2.6l.2-2.7V592.6l.1-2.8.1-2.7v-2.8l.1-2.9v-2.8l.1-3v-2.9l.1-3v-9.3l.1-3.2V507.1l-.1-3v-6l-.1-3v-2.8l-.1-2.8v-2.8l-.2-2.8v-5.4l-.1-2.7-.1-2.6-.1-2.6V468l-.2-2.5v-2.6l-.1-2.5-.1-2.4-.1-2.5-.1-2.5-.1-2.4-.1-2.4-.1-2.4-.1-2.4-.1-2.4-.1-2.4-.2-2.3h-31.5"
@@ -5123,7 +5123,7 @@ export default function SuperLogo(props) {
         />
       </g>
       <g>
-        <g fill="none" stroke="#000" stroke-linejoin="round" stroke-width="3">
+        <g fill="none" stroke="#000" strokeLinejoin="round" strokeWidth="3">
           <path
             d="M1030.7 464.2V434l-.1-3V413.8l-.1-2.8v-2.7h-60l-10 .1h-70.3l-.1
           2.8-.2 2.7-.1 2.8-.2 2.8-.1 2.8-.2 3v2.8l-.2 3-.2 3v3l-.2 3-.1 3.2-.1
@@ -5156,7 +5156,7 @@ export default function SuperLogo(props) {
         />
       </g>
       <g>
-        <g fill="none" stroke="#000" stroke-linejoin="round" stroke-width="3">
+        <g fill="none" stroke="#000" strokeLinejoin="round" strokeWidth="3">
           <path
             d="M1031.4
           464.3v-4.8l-.1-3.3v-3.4l-.1-3.2v-3.2l-.1-3.2-.1-3V437l-.2-3v-3l-.1-3v-3l-.1-2.8-.1-2.9-.1-2.8v-2.8l-.2-2.7v-2.7H889.8l-.1
