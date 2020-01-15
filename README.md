@@ -2,7 +2,7 @@
 
 > Component Library for SuperCode Sites
 
-[![NPM](https://img.shields.io/npm/v/super-library.svg)](https://www.npmjs.com/package/super-library) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![NPM](https://img.shields.io/npm/v/super-library.svg)](https://www.npmjs.com/package/super-library) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com) [![Greenkeeper badge](https://badges.greenkeeper.io/supercode-de/super-library.svg)](https://greenkeeper.io/)
 
 ## Install
 
