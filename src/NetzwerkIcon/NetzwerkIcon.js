@@ -1,16 +1,16 @@
 import React, { Component } from "react";
 import lottie from "lottie-web";
-import animationData from "../NetzwerkIcon/animationData";
+import animationData from "./animationData";
 
 
 
-class NetzwerkIcon extends Component {
+class MethodikIcon extends Component {
     constructor(props) {
       super(props);
       this.state = { animation: null };
     }
     componentDidMount() {
-      const container = document.getElementById("netzwerk-icon");
+      const container = document.getElementById("methodik-icon");
       container.setAttribute("style", `height: ${this.props.height}px;`);
   
       this.state.animation = lottie.loadAnimation({
@@ -25,7 +25,7 @@ class NetzwerkIcon extends Component {
     render() {
       return (
         <div
-          id="netzwerk-icon"
+          id="methodik-icon"
           onMouseOver={() => this.state.animation.play()}
           onMouseLeave={() => this.state.animation.stop()}
         />
