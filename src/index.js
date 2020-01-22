@@ -1,7 +1,7 @@
 import SuperLogo from "./SuperLogo/SuperLogo";
 import WaitIcon from "./WaitIcon/WaitIcon";
 import BeratungIcon from "./BeratungIcon/BeratungIcon"
-import BeratungIcon from "./FinanzierungIcon/FinanzierungIcon"
+import FinanzierungIcon from "./FinanzierungIcon/FinanzierungIcon"
 
 export { SuperLogo, WaitIcon, BeratungIcon, FinanzierungIcon };
 
