@@ -33,4 +33,4 @@ class NetzwerkIcon extends Component {
     }
   }
   
-  export default MethodikIcon;
+  export default NetzwerkIcon;
