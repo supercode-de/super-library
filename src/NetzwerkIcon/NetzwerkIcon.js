@@ -10,7 +10,7 @@ class MethodikIcon extends Component {
       this.state = { animation: null };
     }
     componentDidMount() {
-      const container = document.getElementById("methodik-icon");
+      const container = document.getElementById("netzwerk-icon");
       container.setAttribute("style", `height: ${this.props.height}px;`);
   
       this.state.animation = lottie.loadAnimation({
@@ -25,7 +25,7 @@ class MethodikIcon extends Component {
     render() {
       return (
         <div
-          id="methodik-icon"
+          id="netzwerk-icon"
           onMouseOver={() => this.state.animation.play()}
           onMouseLeave={() => this.state.animation.stop()}
         />
@@ -33,4 +33,4 @@ class MethodikIcon extends Component {
     }
   }
   
-  export default MethodikIcon;
+  export default NetzwerkIcon;
