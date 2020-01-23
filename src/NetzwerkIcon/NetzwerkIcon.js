@@ -4,7 +4,7 @@ import animationData from "./animationData";
 
 
 
-class MethodikIcon extends Component {
+class NetzwerkIcon extends Component {
     constructor(props) {
       super(props);
       this.state = { animation: null };
